@@ -1,3 +1,4 @@
 # Mock factory in multiple modules
 
 An example project in Android where we reuse mock factory class across different modules
+https://treatwell.engineering/mock-factory-for-android-testing-in-multi-module-system-7654f45808be
